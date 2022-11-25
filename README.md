@@ -30,4 +30,42 @@
  
  - Start: In Olympic distance events, there are no starting blocks; runners begin in an upright position, their hands prohibited from touching the ground. The starting command for these races is "On your marks." Once all athletes are at the mark, the Starter's gun is fired, officially starting the race. Distance races begin with mass starts. When there are more than 12 competitors in a race, they can be split into two staggered groups for the start: one with roughly 65 percent of the runners on the regular start line, another with the other runners on a separate start line across the track's outer half. The latter group runs on the outer half until clearing the first bend. 
  
+ - Lanes: In Olympic distance races, there are no lane assignments so runners can break for position from the start.
+ Race Walking Rules
+ 
+<b>Definition: Race walking is a progression of steps so taken that the walker makes constant contact with the ground.  The advancing leg shall be straightened from the moment of the first contact with the ground until the vertical upright position.<b>
+
+ <b>Judges: There are six to nine judges for each Olympic race-walk event. Athletes are given warnings by the judges when they violate the definition of race walking by exhibiting a visible loss of contact or a bent knee. Warnings from three different judges results in disqualification. Competitors must retire from the race if ordered to do so by a member of the official medical staff. A competitor may leave the course with the permission of a race judge, as long as it doesn't result in the shortening of the race distance.<b>
+
+<b>Jumping Rules<b>
+ - High Jump: Athletes must take off from one foot. A failed attempt occurs when the crossbar does not remain on the supports after the jump because it was touched by the athlete.
+
+<b>Pole Vault: Athletes are allowed to place a substance on their hands or the pole to obtain a better grip, but are not permitted to use tape on their hands or fingers except to cover an open wound. Athletes may use their own poles during competition. The poles may be made of any material and can be of any length and diameter. If the pole is broken during the attempt, it isn't considered a failure and the vaulter gets another attempt. <b>
+
+<b>A failed attempt occurs when:<b>
+
+ - The bar does not remain on the pegs after the vault because it was touched by the athlete.
+The athlete moves his lower hand above the upper one or moves the upper hand higher on the pole once he has left the ground.
+The athlete steadies or replaces the bar during the vault.
+Long Jump: All jumps are measured from the take-off line to the nearest break in the landing area made by any part of the body. 
+
+<b>A failed attempt occurs when:<b>
+
+ - The athlete touches the ground beyond the take-off line upon executing the jump; the take-off line is the edge of the take-off board (roughly 8 inches wide) closest to the landing pit.
+The athlete takes off from outside either end of the take-off board.
+In the course of landing, he touches the ground outside the landing area closer to the take-off line than the nearest break made in the sand.
+Triple Jump: The triple jump consists of a hop, a step and a jump, in that order. The hop is made so that the athlete lands on the same foot from which he or she has taken off. In the step, the athlete lands on the other foot from which the jump is performed. It is not considered a failure if, while jumping, the athlete touches the ground with the non-jumping or "sleeping" leg. Failed attempts occur as described in "Long Jump" above.
+
+<b>Throwing Rules<b>
+ - Implements: All implements used in Olympic competition must meet the exact specifications set forth by the International Association of Athletics Federations (IAAF). No modification to any implement is allowed during competition. No device used to assist an athlete when making an attempt is allowed.  This includes the taping of fingers together.  The use of tape on the hands is only permitted to cover an open cut or wound. Use of gloves is not permitted except in the hammer throw event.
+
+ - The Throws: The shot, discus and hammer are all thrown from the throwing circle. The javelin is thrown from a runway. If the athlete steps out of the throwing circle or runway during the act of throwing, the throw is considered a failed attempt. A valid throw must fall completely within the marked landing area. The athlete must not leave the circle or runway until the implement has touched the ground.
+
+<b>Combined Events Rules<b>
+ - For the most part, the IAAF rules that govern the individual track and field events apply to the corresponding events in the decathlon and heptathlon. 
+
+<b>Exceptions:<b>
+
+ - In the long jump and throwing events (shot put, discus, javelin), competitors are allowed three attempts only.
+In track events, a false start is assigned only to the athlete who committed it, and disqualification only occurs when the same athlete false starts twice.
  
